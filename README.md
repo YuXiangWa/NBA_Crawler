@@ -1,6 +1,6 @@
 # NBA_Crawler
 ## 利用Python從json Api將資料抓取下來
-## 再利用SQLite進行分析
+### 再利用SQLite進行分析
 
 * NBA_General
 
